@@ -1,6 +1,7 @@
 
 
 // task 5
+// https://docs.google.com/document/d/1TPk3wqxDFi64WV-6hJOkYEzBaAYxNvZ4T9hRJGgvFjw/edit
 
 
 
@@ -150,7 +151,7 @@
     
     
     
-    //  Remove duplicates from an array
+    // 6(a)  Remove duplicates from an array
     
     
         var cites =["salem","chennai","chennai","tirupur","coimbatore"];
@@ -164,7 +165,7 @@
     
     //******************************************************************************************************* */
 
-          //    Return median of two sorted arrays of the same size.
+          //  7(a)  Return median of two sorted arrays of the same size.
 
 
           array1=[1,6];
